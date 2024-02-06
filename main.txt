@@ -1,3 +1,7 @@
 this is the main code file for the software
 
-this is the extra code written for version 2  
+this is the extra code written for version 2
+
+There were some bugs in the software which has been fixed now
+
+the same has been done for the utity file too
